@@ -13,7 +13,7 @@ namespace EssenstialsDemo
         {
             InitializeComponent();
 
-            MainPage = new EssenstialsDemo.MainPage();
+            MainPage = new EssenstialsDemo.Views.MainPage();
         }
 
         protected override void OnStart()
